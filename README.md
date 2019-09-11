@@ -12,3 +12,7 @@ Features:
 Future updates:
   1. The ability to customize what gender you want
  
+#REQUIREMENTS
+random
+termcolor
+datetime.
